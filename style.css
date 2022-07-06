@@ -1,0 +1,87 @@
+#title{
+  background-color: #F4E9D9;
+}
+
+.navbar{
+  padding-top: 25px;
+}
+
+.navbar-brand{
+  color: black;
+  margin-left: 10px;
+  font-weight: bold;
+  }
+
+.logo{
+  margin-left: 40px;
+}
+
+.nav-link{
+  color: #017143;
+  font-weight: bold;
+}
+
+.shop{
+  margin-right: 580px;
+}
+
+.para{
+  padding: 90px 0 100px 50px;
+}
+
+.pic{
+  padding: 50px;
+}
+
+.star{
+  color: #017143;
+  padding-bottom: 10px;
+  font-weight: bolder;
+}
+
+.main{
+  color: #017143;
+  padding-bottom: 10px;
+  font-size: 60px;
+}
+
+.content{
+color: #017143;
+padding-bottom: 10px;
+font-size: 20px;
+line-height: 20px;
+}
+
+.btn{
+  color: #fff;
+  background: #017143;
+  display: inline-block;
+  padding: 15px;
+  font-family: inherit;
+  font-size: 16px;
+}
+
+.star1{
+  width: 300px;
+  position: absolute;
+  z-index: 1;
+    transform: rotate(-10deg);
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.star2{
+  width: 250px;
+  position: absolute;
+  transform: rotate(6deg);
+    margin-left: 251px;
+  }
+
+.list{
+  list-style-type: none;
+  margin-top: 300px;
+}
+
+.fa-brands{
+  color: #7a5e45;
+}
